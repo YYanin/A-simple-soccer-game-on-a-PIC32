@@ -1,8 +1,6 @@
 Yaroslav Yanin
 yyanin@ucsc.edu
-1620969
 
-Lab 10 proposal
 
 
 I plan to have a goly defend the goals from the incoming balls.
